@@ -14,4 +14,4 @@ This project is a simple REST API built with Java. It demonstrates basic CRUD op
 - VS Code
 - Java 21
 - Maven
-- Spring Bootgit branch -M main
+- Spring Boot
