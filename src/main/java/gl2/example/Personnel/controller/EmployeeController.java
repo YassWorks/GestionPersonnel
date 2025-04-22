@@ -1,10 +1,5 @@
 package gl2.example.Personnel.controller;
 
-// Remove unused java.time imports
-// import java.time.Duration;
-// import java.time.LocalDate;
-// import java.time.Period;
-// import java.time.ZoneId;
 import java.util.List;
 import java.util.Optional;
 
