@@ -9,6 +9,8 @@ This project is a simple REST API built with Java. It demonstrates basic CRUD op
 ## Requirements
 - Java 11+
 - Maven
+ 
+---
 
 ## Tools
 - VS Code
